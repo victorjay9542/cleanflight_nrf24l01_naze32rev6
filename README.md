@@ -1,0 +1,1 @@
+# cleanflight_nrf24l01_naze32rev6
